@@ -24,4 +24,5 @@
 
 ## 作業連結
 - [精神時光屋個人檔案](https://challenge.thef2e.com/user/4146?schedule=4558)
-- [Github](https://showanne.github.io/Vue-pomodoro/)
+- [Github](https://github.com/showanne/Vue-pomodoro)
+- [Pomodoro](https://showanne.github.io/Vue-pomodoro/)
